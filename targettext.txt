@@ -1,0 +1,18 @@
+Text items to swap
+
+User Defined #1 -> NPV
+User Defined #2 -> P&L Impact
+User Defined #3 -> Sq Ft Reduction
+User Defined #4 -> Capital Receipts
+User Defined #5 -> AAAAA 
+User Defined #6 -> BBBB
+
+User Defined Yes/No #1 -> Includee in PoP
+User Defined Yes/No #2 -> JLL Project?
+
+User Defined Date #1 -> WIP status update date
+User Defined Date #2 -> Date of last entry
+
+User Defined Number #1 -> Capital investment
+User Defined Number #2 -> WACC
+

@@ -1,0 +1,9 @@
+manifest.json
++ Change
+            "matches": [
+                "https://jll.stage.costarremanager.com/*"
+            ],
+	    to
+	                "matches": [
+                "https://jll.costarremanager.com/*"
+            ],
